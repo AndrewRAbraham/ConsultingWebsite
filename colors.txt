@@ -1,0 +1,5 @@
+green: rgb(58, 179, 48); #3ab330
+whiteish: rgb(251, 249, 250); #fbf9fa
+purple: rgb(143, 30, 175); #8f1eaf
+gray: rgb(99, 106, 109); #636a6d
+dark : rgb(37, 39, 52); #252734
