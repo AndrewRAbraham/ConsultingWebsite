@@ -60,3 +60,20 @@ body .container{
   padding-top: 10vh;
   padding-bottom: 10vh;
 }
+.card i {
+  font-size:4.5em;
+  padding-bottom:1rem;
+}
+
+.card{
+  text-align:center;
+  height:auto;
+  margin-bottom: 1em;
+  margin-top:1em;
+  border:none;
+}
+.card-footer{
+  background:none;
+  border-top: none;
+  padding-top:0px;
+}
