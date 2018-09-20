@@ -1,8 +1,9 @@
 /* Whole Document */
 :root {
-    --dark-orange: rgba(255,147,0,1);
+    --dark-orange: rgba(255,108,0,1);
     --dark-grey:#343a40;
-    --dark-orange-transparent: rgba(255,147,0,.07);
+    --secondary-background-color: 	#F5F5F5;
+    --tertiary-background-color:#DCDCDC	;
 
 }
 
@@ -10,15 +11,39 @@
   font-family:Rubik;
 }
 
-.btn{
+.btn-primary {
+  border-radius: 3em;
+  box-shadow: rgba(0, 0, 0, 0.15) 0 6px 20px;
+  color:var(--dark-orange);
+  background-color: white;
+  border:none;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: gray;
+}
+
+.btn-secondary {
+  border-radius: 3em;
+  box-shadow: rgba(0, 0, 0, 0.15) 0 6px 20px;
+  color:white;
+  background-color: var(--dark-orange);
+  border:none;
+
+}
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active, .btn-secondary.active, .open>.dropdown-toggle.btn-secondary {
+    color: #fff;
+    background-color: gray;
+
+}
+
+
+/* top bar */
+.top-bar .btn{
   border-radius: 3em;
   box-shadow: rgba(0, 0, 0, 0.15) 0 6px 20px;
   font-size: small;
 }
-
-
-
-/* top bar */
 
 .top-bar{
   color:white;
@@ -105,6 +130,12 @@ body h1{
 padding-bottom:.5em;
 }
 
-.secondary-color{
-  background-color:var(--dark-orange-transparent);
+.secondary-background-color{
+  background-color:var(--secondary-background-color);
+}
+
+footer{
+  color:white;
+  background-color:var(--dark-orange);
+  background-image: url("images/asfalt-light.png");
 }
