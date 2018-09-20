@@ -1,0 +1,25 @@
+green: rgb(58, 179, 48); #3ab330
+whiteish: rgb(251, 249, 250); #fbf9fa
+purple: rgb(143, 30, 175); #8f1eaf
+gray: rgb(99, 106, 109); #636a6d
+dark : rgb(37, 39, 52); #252734
+
+
+---
+1 orange: #ff6c00; rgba(255,108,0,1)
+2 orange: #rgba(255,147,0,1)
+Black: #343a40
+White: #ffffff
+
+
+---- headline code I'll save for later
+<h1 class="cd-headline slide">
+  <span>Increase Your </span>
+  <span class="cd-words-wrapper heading-animation-underline">
+    <b class="is-visible">Business'</b>
+    <b>Resturant's</b>
+    <b>Cafe's</b>
+    <b>Shop's</b>
+    <b>Boutique's</b>
+  </span>
+Sales</h1>
