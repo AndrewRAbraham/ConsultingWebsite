@@ -7,6 +7,6 @@ dark : rgb(37, 39, 52); #252734
 
 ---
 1 orange: #ff6c00; rgba(255,108,0,1)
-2 orange: rgba(255,147,0,1)
+2 orange: #rgba(255,147,0,1)
 Black: #343a40
 White: #ffffff
