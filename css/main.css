@@ -34,13 +34,12 @@ header{
 
 min-height: 100vh;
 color:white;
-background-color: #8f1eaf;
 background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.6)), url("images/farm_house.jpg");
 background-size: cover;
 
 }
 .main-header{
-min-height: 100vh;
+min-height: 90vh;
 display:flex;
 align-items: center;
 }
@@ -49,7 +48,12 @@ align-items: center;
 	4px solid;
   padding-bottom: -2vh;
 }
-
+header h1{
+  margin-top: 0em;
+}
+header h2 {
+  margin-top: 1em;
+}
 /* body */
 
 body .container{
