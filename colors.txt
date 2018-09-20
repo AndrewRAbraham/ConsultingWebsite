@@ -3,3 +3,10 @@ whiteish: rgb(251, 249, 250); #fbf9fa
 purple: rgb(143, 30, 175); #8f1eaf
 gray: rgb(99, 106, 109); #636a6d
 dark : rgb(37, 39, 52); #252734
+
+
+---
+1 orange: #ff6c00; rgba(255,108,0,1)
+2 orange: rgba(255,147,0,1)
+Black: #343a40
+White: #ffffff
