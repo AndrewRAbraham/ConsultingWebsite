@@ -148,3 +148,6 @@ footer{
   background-color:var(--dark-orange);
   background-image: url("images/asfalt-light.png");
 }
+#submit-message{
+  text-align:center;
+}

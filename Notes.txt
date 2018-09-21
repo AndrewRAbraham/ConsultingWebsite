@@ -23,3 +23,10 @@ White: #ffffff
     <b>Boutique's</b>
   </span>
 Sales</h1>
+
+
+$("topForm").submit(function(){
+     alert( "Handler for .submit() called." );
+
+})
+});
